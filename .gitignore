@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# VS Code workspace settings (optional, usually local)
+.vscode/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Optional: ignore generated executables
+*.exe
