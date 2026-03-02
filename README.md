@@ -12,10 +12,10 @@ werden.
 ## GUI – Übersicht
 
 ### GUI
-![FileSorter GUI](FileSorter_blank.png)
+![FileSorter GUI](assets/FileSorter_blank.png)
 
 ### Markierte Bereiche (Pfad + Drag&Drop)
-![FileSorter GUI (markiert)](FileSorter_notBlank.png)
+![FileSorter GUI (markiert)](assets/FileSorter_notBlank.png)
 
 ## Verwendung
 
